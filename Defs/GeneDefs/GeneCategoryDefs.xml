@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <GeneCategoryDef>
+    <defName>SSG_GeneCategory</defName>
+    <label>Simple Size Genes</label>
+    <displayPriorityInXenotype>550</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+</Defs>

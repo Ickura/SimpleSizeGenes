@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <GeneDef Name="SSG_GeneBase" Abstract="True">
+    <displayCategory>SSG_GeneCategory</displayCategory>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>0</biostatMet>
+	<randomChosen>true</randomChosen>
+	<exclusionTags>
+	  <li>BodySize</li>
+	</exclusionTags>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_Normal</defName>
+    <label>Normal Size</label>
+    <description>Carriers of this gene are of normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Normal_Icon</iconPath>
+    <displayOrderInCategory>1</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(1, 1)</bodyScaleFactor>
+		<headScaleFactor>(1, 1)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+</Defs>

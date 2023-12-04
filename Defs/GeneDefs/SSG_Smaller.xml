@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_20Smaller</defName>
+    <label>-20% Size</label>
+    <description>Carriers of this gene are 20% smaller than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
+    <displayOrderInCategory>2</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(0.8, 0.8)</bodyScaleFactor>
+		<headScaleFactor>(0.8, 0.8)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_40Smaller</defName>
+    <label>-40% Size</label>
+    <description>Carriers of this gene are 40% smaller than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
+    <displayOrderInCategory>3</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(0.6, 0.6)</bodyScaleFactor>
+		<headScaleFactor>(0.6, 0.6)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_60Smaller</defName>
+    <label>-60% Size</label>
+    <description>Carriers of this gene are 60% smaller than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
+    <displayOrderInCategory>4</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(0.4, 0.4)</bodyScaleFactor>
+		<headScaleFactor>(0.4, 0.4)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_80Smaller</defName>
+    <label>-80% Size</label>
+    <description>Carriers of this gene are 80% smaller than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
+    <displayOrderInCategory>5</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(0.2, 0.2)</bodyScaleFactor>
+		<headScaleFactor>(0.2, 0.2)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_100Smaller</defName>
+    <label>-100% Size</label>
+    <description>Carriers of this gene are 100% smaller than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
+    <displayOrderInCategory>6</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(0, 0)</bodyScaleFactor>
+		<headScaleFactor>(0, 0)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+</Defs>

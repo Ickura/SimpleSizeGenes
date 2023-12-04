@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_200Bigger</defName>
+    <label>+200% Size</label>
+    <description>Carriers of this gene are 200% bigger than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
+    <displayOrderInCategory>12</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(3, 3)</bodyScaleFactor>
+		<headScaleFactor>(3, 3)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_400Bigger</defName>
+    <label>+400% Size</label>
+    <description>Carriers of this gene are 400% bigger than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
+    <displayOrderInCategory>13</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(5, 5)</bodyScaleFactor>
+		<headScaleFactor>(5, 5)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_600Bigger</defName>
+    <label>+600% Size</label>
+    <description>Carriers of this gene are 600% bigger than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
+    <displayOrderInCategory>14</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(7, 7)</bodyScaleFactor>
+		<headScaleFactor>(7, 7)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_800Bigger</defName>
+    <label>+800% Size</label>
+    <description>Carriers of this gene are 800% bigger than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
+    <displayOrderInCategory>15</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(9, 9)</bodyScaleFactor>
+		<headScaleFactor>(9, 9)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+  <GeneDef ParentName="SSG_GeneBase">
+    <defName>SSG_Gene_1000Bigger</defName>
+    <label>+1000% Size</label>
+    <description>Carriers of this gene are 1000% bigger than their normal size.</description>
+    <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
+    <displayOrderInCategory>16</displayOrderInCategory>
+	<modExtensions>
+	  <li Class="VanillaGenesExpanded.GeneExtension">
+		<bodyScaleFactor>(11, 11)</bodyScaleFactor>
+		<headScaleFactor>(11, 11)</headScaleFactor>
+	  </li>
+	</modExtensions>
+  </GeneDef>
+
+</Defs>

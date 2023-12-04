@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <VREAndroids.AndroidConvertableGenesDef>
+	<defName>SSG_AndroidConvertableGenesDefs</defName>
+	<geneCategories>
+	  <li>SSG_GeneCategory</li>
+	</geneCategories>
+  </VREAndroids.AndroidConvertableGenesDef>
+
+</Defs>

@@ -7,12 +7,26 @@
     <description>Carriers of this gene are 20% smaller than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>2</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>1.1</MoveSpeed>
+	  <IncomingDamageFactor>1.05</IncomingDamageFactor>
+	  <MeleeDamageFactor>0.85</MeleeDamageFactor>
+	  <MeleeDodgeChance>1.1</MeleeDodgeChance>
+	  <WorkSpeedGlobal>1.05</WorkSpeedGlobal>
+	  <CarryingCapacity>0.9</CarryingCapacity>
+	  <LeatherAmount>0.8</LeatherAmount>
+	  <MeatAmount>0.8</MeatAmount>
+	  <Mass>0.8</Mass>
+	  <PawnTrapSpringChance>0.8</PawnTrapSpringChance>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(0.8, 0.8)</bodyScaleFactor>
 		<headScaleFactor>(0.8, 0.8)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>1</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -21,12 +35,26 @@
     <description>Carriers of this gene are 40% smaller than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>3</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>1.2</MoveSpeed>
+	  <IncomingDamageFactor>1.1</IncomingDamageFactor>
+	  <MeleeDamageFactor>0.7</MeleeDamageFactor>
+	  <MeleeDodgeChance>1.2</MeleeDodgeChance>
+	  <WorkSpeedGlobal>1.1</WorkSpeedGlobal>
+	  <CarryingCapacity>0.8</CarryingCapacity>
+	  <LeatherAmount>0.6</LeatherAmount>
+	  <MeatAmount>0.6</MeatAmount>
+	  <Mass>0.6</Mass>
+	  <PawnTrapSpringChance>0.6</PawnTrapSpringChance>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(0.6, 0.6)</bodyScaleFactor>
 		<headScaleFactor>(0.6, 0.6)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>2</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -35,12 +63,26 @@
     <description>Carriers of this gene are 60% smaller than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>4</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>1.3</MoveSpeed>
+	  <IncomingDamageFactor>1.15</IncomingDamageFactor>
+	  <MeleeDamageFactor>0.55</MeleeDamageFactor>
+	  <MeleeDodgeChance>1.3</MeleeDodgeChance>
+	  <WorkSpeedGlobal>1.15</WorkSpeedGlobal>
+	  <CarryingCapacity>0.7</CarryingCapacity>
+	  <LeatherAmount>0.4</LeatherAmount>
+	  <MeatAmount>0.4</MeatAmount>
+	  <Mass>0.4</Mass>
+	  <PawnTrapSpringChance>0.4</PawnTrapSpringChance>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(0.4, 0.4)</bodyScaleFactor>
 		<headScaleFactor>(0.4, 0.4)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>3</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -49,12 +91,26 @@
     <description>Carriers of this gene are 80% smaller than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>5</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>1.4</MoveSpeed>
+	  <IncomingDamageFactor>1.2</IncomingDamageFactor>
+	  <MeleeDamageFactor>0.4</MeleeDamageFactor>
+	  <MeleeDodgeChance>1.4</MeleeDodgeChance>
+	  <WorkSpeedGlobal>1.2</WorkSpeedGlobal>
+	  <CarryingCapacity>0.6</CarryingCapacity>
+	  <LeatherAmount>0.2</LeatherAmount>
+	  <MeatAmount>0.2</MeatAmount>
+	  <Mass>0.2</Mass>
+	  <PawnTrapSpringChance>0.2</PawnTrapSpringChance>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(0.2, 0.2)</bodyScaleFactor>
 		<headScaleFactor>(0.2, 0.2)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>4</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -63,12 +119,26 @@
     <description>Carriers of this gene are 100% smaller than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>6</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>1.5</MoveSpeed>
+	  <IncomingDamageFactor>1.25</IncomingDamageFactor>
+	  <MeleeDamageFactor>0.25</MeleeDamageFactor>
+	  <MeleeDodgeChance>1.5</MeleeDodgeChance>
+	  <WorkSpeedGlobal>1.25</WorkSpeedGlobal>
+	  <CarryingCapacity>0.5</CarryingCapacity>
+	  <LeatherAmount>0</LeatherAmount>
+	  <MeatAmount>0</MeatAmount>
+	  <Mass>0</Mass>
+	  <PawnTrapSpringChance>0</PawnTrapSpringChance>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(0, 0)</bodyScaleFactor>
 		<headScaleFactor>(0, 0)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>5</biostatMet>
   </GeneDef>
 
 </Defs>

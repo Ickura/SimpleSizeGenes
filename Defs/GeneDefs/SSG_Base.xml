@@ -3,9 +3,9 @@
 
   <GeneDef Name="SSG_GeneBase" Abstract="True">
     <displayCategory>SSG_GeneCategory</displayCategory>
-    <biostatCpx>1</biostatCpx>
+    <biostatCpx>0</biostatCpx>
     <biostatMet>0</biostatMet>
-	<randomChosen>true</randomChosen>
+	<randomChosen>false</randomChosen>
 	<exclusionTags>
 	  <li>BodySize</li>
 	</exclusionTags>
@@ -23,6 +23,8 @@
 		<headScaleFactor>(1, 1)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>0</biostatCpx>
+    <biostatMet>0</biostatMet>
   </GeneDef>
 
 </Defs>

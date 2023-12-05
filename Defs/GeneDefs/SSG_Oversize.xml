@@ -7,12 +7,26 @@
     <description>Carriers of this gene are 200% bigger than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>12</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>0.7</MoveSpeed>
+	  <IncomingDamageFactor>0.65</IncomingDamageFactor>
+	  <MeleeDamageFactor>1.75</MeleeDamageFactor>
+	  <MeleeDodgeChance>0.65</MeleeDodgeChance>
+	  <WorkSpeedGlobal>0.7</WorkSpeedGlobal>
+	  <CarryingCapacity>2</CarryingCapacity>
+	  <LeatherAmount>3</LeatherAmount>
+	  <MeatAmount>3</MeatAmount>
+	  <Mass>3</Mass>
+	  <StaggerDurationFactor>0.4</StaggerDurationFactor>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(3, 3)</bodyScaleFactor>
 		<headScaleFactor>(3, 3)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>-6</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -21,12 +35,26 @@
     <description>Carriers of this gene are 400% bigger than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>13</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>0.65</MoveSpeed>
+	  <IncomingDamageFactor>0.5</IncomingDamageFactor>
+	  <MeleeDamageFactor>2</MeleeDamageFactor>
+	  <MeleeDodgeChance>0.5</MeleeDodgeChance>
+	  <WorkSpeedGlobal>0.65</WorkSpeedGlobal>
+	  <CarryingCapacity>3.5</CarryingCapacity>
+	  <LeatherAmount>5</LeatherAmount>
+	  <MeatAmount>5</MeatAmount>
+	  <Mass>5</Mass>
+	  <StaggerDurationFactor>0.3</StaggerDurationFactor>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(5, 5)</bodyScaleFactor>
 		<headScaleFactor>(5, 5)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>-7</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -35,12 +63,26 @@
     <description>Carriers of this gene are 600% bigger than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>14</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>0.6</MoveSpeed>
+	  <IncomingDamageFactor>0.35</IncomingDamageFactor>
+	  <MeleeDamageFactor>2.25</MeleeDamageFactor>
+	  <MeleeDodgeChance>0.35</MeleeDodgeChance>
+	  <WorkSpeedGlobal>0.6</WorkSpeedGlobal>
+	  <CarryingCapacity>5</CarryingCapacity>
+	  <LeatherAmount>7</LeatherAmount>
+	  <MeatAmount>7</MeatAmount>
+	  <Mass>7</Mass>
+	  <StaggerDurationFactor>0.2</StaggerDurationFactor>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(7, 7)</bodyScaleFactor>
 		<headScaleFactor>(7, 7)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>-8</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -49,12 +91,26 @@
     <description>Carriers of this gene are 800% bigger than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>15</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>0.55</MoveSpeed>
+	  <IncomingDamageFactor>0.2</IncomingDamageFactor>
+	  <MeleeDamageFactor>2.5</MeleeDamageFactor>
+	  <MeleeDodgeChance>0.2</MeleeDodgeChance>
+	  <WorkSpeedGlobal>0.55</WorkSpeedGlobal>
+	  <CarryingCapacity>6.5</CarryingCapacity>
+	  <LeatherAmount>9</LeatherAmount>
+	  <MeatAmount>9</MeatAmount>
+	  <Mass>9</Mass>
+	  <StaggerDurationFactor>0.1</StaggerDurationFactor>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(9, 9)</bodyScaleFactor>
 		<headScaleFactor>(9, 9)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>-9</biostatMet>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
@@ -63,12 +119,26 @@
     <description>Carriers of this gene are 1000% bigger than their normal size.</description>
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>16</displayOrderInCategory>
+	<statFactors>
+	  <MoveSpeed>0.5</MoveSpeed>
+	  <IncomingDamageFactor>0.05</IncomingDamageFactor>
+	  <MeleeDamageFactor>2.75</MeleeDamageFactor>
+	  <MeleeDodgeChance>0.05</MeleeDodgeChance>
+	  <WorkSpeedGlobal>0.5</WorkSpeedGlobal>
+	  <CarryingCapacity>8</CarryingCapacity>
+	  <LeatherAmount>11</LeatherAmount>
+	  <MeatAmount>11</MeatAmount>
+	  <Mass>11</Mass>
+	  <StaggerDurationFactor>0</StaggerDurationFactor>
+	</statFactors>
 	<modExtensions>
 	  <li Class="VanillaGenesExpanded.GeneExtension">
 		<bodyScaleFactor>(11, 11)</bodyScaleFactor>
 		<headScaleFactor>(11, 11)</headScaleFactor>
 	  </li>
 	</modExtensions>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>-10</biostatMet>
   </GeneDef>
 
 </Defs>

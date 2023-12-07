@@ -8,7 +8,7 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>2</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeOffset>-0.2</SM_BodySizeOffset>
+      <SM_BodySizeMultiplier>-0.2</SM_BodySizeMultiplier>
     </statOffsets>
     <biostatCpx>1</biostatCpx>
     <biostatMet>1</biostatMet>
@@ -21,7 +21,7 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>3</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeOffset>-0.4</SM_BodySizeOffset>
+      <SM_BodySizeMultiplier>-0.4</SM_BodySizeMultiplier>
     </statOffsets>
     <biostatCpx>1</biostatCpx>
     <biostatMet>2</biostatMet>
@@ -34,7 +34,7 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>4</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeOffset>-0.6</SM_BodySizeOffset>
+      <SM_BodySizeMultiplier>-0.6</SM_BodySizeMultiplier>
     </statOffsets>
     <biostatCpx>1</biostatCpx>
     <biostatMet>3</biostatMet>
@@ -47,23 +47,10 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
     <displayOrderInCategory>5</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeOffset>-0.8</SM_BodySizeOffset>
+      <SM_BodySizeMultiplier>-0.8</SM_BodySizeMultiplier>
     </statOffsets>
     <biostatCpx>1</biostatCpx>
     <biostatMet>4</biostatMet>
-  </GeneDef>
-
-  <GeneDef ParentName="SSG_GeneBase">
-    <defName>SSG_Gene_100Smaller</defName>
-    <label>-100% Size</label>
-    <description>Carriers of this gene are 100% smaller than their normal size.</description>
-    <iconPath>UI/Icons/Genes/SSG_Gene_Smaller_Icon</iconPath>
-    <displayOrderInCategory>6</displayOrderInCategory>
-    <statOffsets>
-      <SM_BodySizeOffset>-1</SM_BodySizeOffset>
-    </statOffsets>
-    <biostatCpx>1</biostatCpx>
-    <biostatMet>5</biostatMet>
   </GeneDef>
 
 </Defs>

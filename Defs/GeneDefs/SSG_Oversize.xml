@@ -8,7 +8,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>12</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>2</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>1.2</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>0.8</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>2</biostatCpx>
     <biostatMet>-6</biostatMet>
@@ -26,7 +27,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>13</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>3</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>1.8</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>1.2</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>3</biostatCpx>
     <biostatMet>-7</biostatMet>
@@ -44,7 +46,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>14</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>4</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>2.4</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>1.6</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>4</biostatCpx>
     <biostatMet>-8</biostatMet>
@@ -62,7 +65,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>15</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>5</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>3</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>2</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>5</biostatCpx>
     <biostatMet>-9</biostatMet>
@@ -80,7 +84,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>16</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>6</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>3.6</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>2.4</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>6</biostatCpx>
     <biostatMet>-10</biostatMet>
@@ -98,7 +103,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>17</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>7</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>4.2</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>2.8</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>7</biostatCpx>
     <biostatMet>-11</biostatMet>
@@ -116,7 +122,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>18</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>8</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>4.8</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>3.2</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>8</biostatCpx>
     <biostatMet>-12</biostatMet>
@@ -134,7 +141,8 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Bigger_Icon</iconPath>
     <displayOrderInCategory>19</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>9</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>5.4</SM_BodySizeOffset>
+	  <SM_Cosmetic_BodySizeOffset>3.6</SM_Cosmetic_BodySizeOffset>
     </statOffsets>
     <biostatCpx>9</biostatCpx>
     <biostatMet>-13</biostatMet>

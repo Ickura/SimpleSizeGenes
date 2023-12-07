@@ -18,7 +18,7 @@
     <iconPath>UI/Icons/Genes/SSG_Gene_Normal_Icon</iconPath>
     <displayOrderInCategory>1</displayOrderInCategory>
     <statOffsets>
-      <SM_BodySizeMultiplier>0</SM_BodySizeMultiplier>
+      <SM_BodySizeOffset>0</SM_BodySizeOffset>
     </statOffsets>
     <biostatCpx>0</biostatCpx>
     <biostatMet>0</biostatMet>

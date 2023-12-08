@@ -41,11 +41,6 @@
     </statOffsets>
     <biostatCpx>1</biostatCpx>
     <biostatMet>-3</biostatMet>
-    <forcedTraits>
-      <li>
-        <def>BS_Giant</def>
-      </li>
-    </forcedTraits>
   </GeneDef>
 
   <GeneDef ParentName="SSG_GeneBase">
